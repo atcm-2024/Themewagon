@@ -14,7 +14,7 @@ export default function Home() {
                      <h2 className="ml-2 text-xl">crafted by  <b>ThemeWagon</b></h2>                 
                       <h3 className="text-xs ml-2">ThemeWagon offers an wide array of category-oriented</h3>
                       <h3 className="ml-2 text-xs mb-7">Free and Premium  Bootstrap HTML Templates and Themes.</h3>
-                      <button class="rounded-md w-[30%] h-7 ml-2 bg-violet-500 text-white tet-sm"> Check Demo</button>
+                      <button class="rounded-md w-[45%] h-7 ml-2 bg-violet-500 text-white tet-sm"> Check Demo</button>
                    </div>
                </div> 
           </div>
