@@ -15,7 +15,7 @@ export default function page() {
                 <div className="w-[50%] mt-4">
                   <h2 className="text-2xl mb-1 mt-3">A creative team which</h2>
                   <h2 className="text-2xl mb-3 ">builds stunning UI/UX</h2>
-                  <h3 className="text-xs ">Today, I'd like to show you some incredible Sign Up screen app.</h3>
+                  <h3 className="text-xs ">Today, I`&apos;`d like to show you some incredible Sign Up screen app.</h3>
                   <h3 className="text-xs">UI ideas and concepts that offer a modern user experience.</h3>
                   <h3 className="text-xs mb-5">The most stunning, cutting-edge UI/UX.</h3>
                   <h3 className="text-xs">Klean is a free Bootstrap 5 template for multipurpose landing</h3>
@@ -29,7 +29,7 @@ export default function page() {
                 <div className="w-[50%]">
                   <h2 className="text-2xl mb-1 mt-3">A creative team which</h2>
                   <h2 className="text-2xl mb-3 ">builds stunning UI/UX</h2>
-                  <h3 className="text-xs ">Today, I'd like to show you some incredible Sign Up screen app.</h3>
+                  <h3 className="text-xs ">Today, I`&apos;`d like to show you some incredible Sign Up screen app.</h3>
                   <h3 className="text-xs">UI ideas and concepts that offer a modern user experience.</h3>
                   <h3 className="text-xs mb-5">The most stunning, cutting-edge UI/UX.</h3>
                   <h3 className="text-xs">Klean is a free Bootstrap 5 template for multipurpose landing</h3>
@@ -43,8 +43,5 @@ export default function page() {
                 </div>
             </div>
     </div>
-
-
-
   )
 }

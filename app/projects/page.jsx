@@ -12,7 +12,7 @@ export default function page() {
     <div className="w-full h-[110px] flex flex-col justify-center items-center">
         <h2 className="text-3xl mb-3 mt-5">Our Projects</h2>
         <h3 className="text-sm ">A project is a single or team activity, combining research and design with best</h3>
-        <h3 className=" text-sm mb-10">effort. Here are some of our team's project</h3>
+        <h3 className=" text-sm mb-10">effort. Here are some of our team`&apos;`s project</h3>
     </div>
 
     <div className="w-[70%] h-[80%] grid grid-flow-col grid-cols-3 gap-4 place-content-center ">

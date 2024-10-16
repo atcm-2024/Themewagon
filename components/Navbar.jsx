@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className='h-16 w-full cursor-pointer items-center md:flex md:flex-row'>
         <div className="md:w-[70%] w-full flex flex-row justify-center items-center gap-4">
                 <figure>
-                    <Image src="/images/Klean.png" className="w-16 h-6" width={1280} height={420}/>
+                    <Image src="/images/Klean.png" className="w-16 h-6" width={1280} height={420} alt="imagen"/>
                 </figure>
                 <ul className="flex gap-4">
                   <li>
